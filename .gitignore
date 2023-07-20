@@ -4,3 +4,8 @@
 
 # Conventional directory for build output.
 build/
+
+chromedriver_mac_arm64/
+chromedriver_mac_arm64.zip
+
+**/.DS_Store
